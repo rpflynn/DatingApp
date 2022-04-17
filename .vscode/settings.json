@@ -1,4 +1,6 @@
 {
     "csharpextensions.useThisForCtorAssignments": false,
-    "csharpextensions.privateMemberPrefix": "_"
+    "csharpextensions.privateMemberPrefix": "_",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active"
 }
